@@ -1,0 +1,23 @@
+{
+    "brand":  "MRL.AI",
+    "appUrl":  "",
+    "contact":  {
+                    "email":  "",
+                    "whatsapp":  ""
+                },
+    "plans":  {
+                  "solo":  {
+                               "checkoutUrl":  ""
+                           },
+                  "duo":  {
+                              "checkoutUrl":  ""
+                          },
+                  "agencia":  {
+                                  "checkoutUrl":  ""
+                              }
+              },
+    "company":  {
+                    "name":  "",
+                    "cnpj":  ""
+                }
+}
