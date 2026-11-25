@@ -7,13 +7,13 @@
                 },
     "plans":  {
                   "solo":  {
-                               "checkoutUrl":  "https://www.asaas.com/000/c/ikguojl80virluyq"
+                               "checkoutUrl":  "https://buy.stripe.com/14AaEWgEJ03O3uI79BbMQ00"
                            },
                   "duo":  {
-                              "checkoutUrl":  "https://www.asaas.com/000/c/j1iema4abjsj02nn"
+                              "checkoutUrl":  "https://buy.stripe.com/28E8wOfAFcQA6GUctVbMQ01"
                           },
                   "agencia":  {
-                                  "checkoutUrl":  "https://www.asaas.com/000/c/g90gukl6vjd9kuxm"
+                                  "checkoutUrl":  "https://buy.stripe.com/4gMdR8ewB9Eoe9m9hJbMQ02"
                               }
               },
     "company":  {
